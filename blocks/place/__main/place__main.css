@@ -1,0 +1,8 @@
+.place__main {
+    display: flex;
+    max-width: 456px;
+}
+
+@media screen and (max-width: 768px) {
+    .place__main {}
+}
