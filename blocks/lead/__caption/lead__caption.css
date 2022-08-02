@@ -1,9 +1,10 @@
 .lead__caption {
     color: #fff;
-    max-width: 158px;
     font-size: 10px;
     line-height: 14px;
     margin: 0;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
 }
 @media screen and (max-width: 768px) {
     .lead__caption {
@@ -13,8 +14,6 @@
 
 @media screen and (max-width: 320px){
     .lead__caption {
-        font-size: 10px;
-        line-height: 14px;
         padding-left: 16px;
     }
 }

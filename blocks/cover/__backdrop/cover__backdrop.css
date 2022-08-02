@@ -1,42 +1,10 @@
 .cover__backdrop {
     background-color: rgba(42 , 44, 47, .8);
-    inset: 0;
-}
-
-
-.cover__linked {
-    text-decoration: none;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    background-image: url(../../../images/na-sobakah.png);
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    min-height: 740px;
-    opacity: .8;
-    transition: opacity .2s linear;
-}
-
-.cover__linked:hover {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
     opacity: .3;
-}
-
-@media screen and (max-width: 1024px) {
-    .cover__linked {
-        min-height: 640px;
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .cover__linked {
-        min-height: 480px;
-    }
-}
-
-@media screen and (max-width: 320px) {
-    .cover__linked {
-        min-height: 200px;
-    }
+    display: block;
+    position: absolute;
 }

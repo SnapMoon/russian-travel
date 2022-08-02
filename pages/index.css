@@ -39,6 +39,6 @@
 @import url(../blocks/place/__main/place__main.css);
 @import url(../blocks/place/place.css);
 @import url(../blocks/places/places.css);
-@import url(../blocks/link-activ/link-activ.css);
+@import url(../blocks/header/__lang-link/_activ/header__lang-link_activ.css);
 @import url(../blocks/intro/__span-accent/intro__span-accent.css);
 
