@@ -14,6 +14,7 @@
 
 .cover__link:hover .cover__backdrop {
     opacity: .8;
+    background-color: #2A2C2F;
 }
 
 
