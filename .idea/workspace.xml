@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbdec788-72e0-405a-8105-cfd645872ef7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__backdrop/cover__backdrop.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__backdrop/cover__backdrop.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/__list-text/intro__list-text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__list-text/intro__list-text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
-    </list>
+    <list default="true" id="dbdec788-72e0-405a-8105-cfd645872ef7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +89,7 @@
       <workItem from="1659307095697" duration="3690000" />
       <workItem from="1659361930909" duration="2708000" />
       <workItem from="1659467550347" duration="4378000" />
-      <workItem from="1659525210185" duration="587000" />
+      <workItem from="1659525210185" duration="825000" />
     </task>
     <servers />
   </component>
